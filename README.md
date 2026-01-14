@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Software Engineering Student  
-- 🌐 Web Application Development  
+- 🏫 Software Engineering - IUH
+- 💻 Software &  Web Application Development  
 - 📚 Luôn học công nghệ mới và cải thiện tư duy lập trình  
 - 🎯 Tập trung vào Clean Code, OOP, RESTful API  
 - 🎓 Sinh viên Công nghệ Thông tin  
@@ -81,21 +81,22 @@ Website giới thiệu sản phẩm công nghệ, giao diện responsive, xử l
 
 <p align="left">
   <a href="https://github.com/khoaletran">
-    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
 
   <a href="mailto:khoaletran709@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com/khoa.le.tran21">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
+  <a href="https://www.facebook.com/USERNAME_FB">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
 
 ## ✨ Quote
 
-> *"Discipline beats motivation."*
+> *"Sẽ Chẳng Ra Sao Nếu Ta Không Huy Hoàng."*
